@@ -1,0 +1,47 @@
+		p,form{
+			padding: 0;
+			margin: 0
+		}
+		body{
+				background:url(pics/bg.png) repeat-x;
+				padding: 0;
+				margin: 0;
+				text-align: center;
+			}
+		.mainbox{
+			background: url(pics/bg01.png) no-repeat left top;
+		}
+		.welcome{
+			background: url(pics/bg02.png) no-repeat right top ;
+			height: 500px;
+		}
+		.login{
+			background:url(pics/bglogin.png) no-repeat center bottom ;
+			height: 250px;
+			width: 525px;
+			padding: 220px 0 0 330px;
+			margin:0 auto 0 auto;
+			text-align:left;
+			font-size: 10pt; color: #003366; text-decoration: none; 
+		}
+		.login2{
+			background:url(pics/bglogin2.png) no-repeat center bottom ;
+			height: 250px;
+			width: 525px;
+			padding: 220px 0 0 330px;
+			margin:0 auto 0 auto;
+			text-align:left;
+			font-size: 10pt; color: #003366; text-decoration: none; 
+		}
+		.login form{
+			padding: 75px 0 0 0
+		}
+		.login p{
+			width: 320px;
+		}
+input.submit{float: right; margin-top:0px;width:86px;height:29px;color:#36434E;background:url("pics/button.png") no-repeat;border:0px;cursor:pointer;font-size:14px;;color:#fff;FONT-WEIGHT: bold; z-index:99;}
+input.submit:hover{float: right; margin-top:0px;background-position:0 -29px;font-size:14px;;color:#fff;FONT-WEIGHT: bold;}
+
+.txt { font-size: 9pt; color: #494949; text-decoration: none; line-height: 20px; } 
+.link_01 { font-size: 9pt; color: #494949; text-decoration: none;}
+a.link_01:hover { color: #006666; text-decoration: none} 
